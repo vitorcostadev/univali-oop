@@ -1,4 +1,4 @@
-package br.univali.poo.exercises.domain;
+package br.univali.poo.exercises.domain.a02ex01;
 
 /**
  * Representa o livro genérico, usado posteriormente para

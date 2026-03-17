@@ -1,7 +1,7 @@
 package br.univali.poo.exercises.tests;
 
-import br.univali.poo.exercises.domain.Livro;
-import br.univali.poo.exercises.domain.LivroDeBiblioteca;
+import br.univali.poo.exercises.domain.a02ex01.Livro;
+import br.univali.poo.exercises.domain.a02ex01.LivroDeBiblioteca;
 
 import java.util.ArrayList;
 import java.util.List;
